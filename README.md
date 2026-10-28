@@ -139,5 +139,3 @@ See ConvertMate_MediaArena_Forensic_Analysis_Report.docx for the extended forens
 Safety and disclosure
 This material is intended for defensive security research, incident response, and threat hunting. Treat all samples and infrastructure indicators as potentially unsafe. Do not execute unknown binaries or connect to the listed infrastructure outside an authorized, isolated research environment.
 
-Before making the repository public, remove any organization-specific, employee, device, case, tenant, or confidential investigation details from the report and supporting files. Do not publish live samples or credentials.
-Research date: October 26, 2026 · Reverse-engineering evidence: static analysis · MediaArena incident status: confirmed by analyst · Specific updater-to-payload linkage: not independently demonstrated in this report
